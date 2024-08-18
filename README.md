@@ -1,5 +1,5 @@
 
-                                # Singapore Resale Flat Prices Prediction
+  # Singapore Resale Flat Prices Prediction
 # Overview
 This project aims to predict the resale prices of flats in Singapore using a linear regression model. The focus is on understanding the factors that impact flat prices and developing a predictive model based on historical resale data.
 
