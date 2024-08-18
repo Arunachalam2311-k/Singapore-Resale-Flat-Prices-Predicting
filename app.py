@@ -311,7 +311,7 @@ with tab2:
             
 
             # predict the resale price
-            if st.button('Predict and Conclusion'):
+            if st.button('Predict'):
 
                 def load_data():
                     # Load data
